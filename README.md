@@ -1,2 +1,2 @@
 # Hello-Network
-Hello Social Networl Language
+Hello Social Network Language
