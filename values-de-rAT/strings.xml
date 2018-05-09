@@ -12,8 +12,8 @@
     <!--titles  -->
     <string name="title_comments">Kommentare</string>
     <string name="title_likes">Gefällt</string>
-    <string name="title_followers">Verfolger</string>
-    <string name="title_following">Folgend</string>
+    <string name="title_followers">Abonnenten</string>
+    <string name="title_following">Abonnements</string>
     <string name="title_publish">Publk</string>
     <string name="title_privacy">Privatsphäre</string>
     <string name="title_gallery">GALERIE</string>
@@ -532,5 +532,7 @@
     <string name="saturation">Sättigung</string>
     <string name="filter_normal">Normal</string>
     <string name="ops_something_wrong_email">Es ist ein Fehler aufgetreten Stellen Sie sicher, dass Ihr Konto eine E-Mail-Adresse hat</string>
-
+    <string name="app_likes">Gefällt</string>
+    <string name="app_views">Reichweite</string>
+    <string name="app_you">Dir</string>
 </resources>
