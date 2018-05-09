@@ -13,7 +13,7 @@ likeCounter.setText(R.string.app_likes);
 name = "You";
 Change to:
 name = mActivity.getString(R.string.app_you);
-
+---------------------------------------------------
 Download Link:
 https://play.google.com/store/apps/details?id=com.globcast.yugonetwork
 
